@@ -1,7 +1,6 @@
-# 📚 CSE 455: Computer Ethics and Cyber Law
 
 ## 📝 Assignment Title
-**Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples**
+## Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
 ## 🏫 Course Details
 - **Course Name:** Computer Ethics and Cyber Law  
